@@ -1,2 +1,16 @@
 git
 gh
+
+# Needed for Verilator
+help2man
+perl
+make
+autoconf
+g++
+flex
+ccache
+bison
+gperftools
+numactl
+perl-doc
+perl-FindBin
