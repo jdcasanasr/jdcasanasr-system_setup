@@ -1,7 +1,5 @@
 git
 gh
-
-# Needed for Verilator
 help2man
 perl
 make
