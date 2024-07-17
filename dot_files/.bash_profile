@@ -6,6 +6,8 @@ if [ -f ~/.bashrc ]; then
 fi
 
 # User specific environment and startup programs
+export LM_LICENSE_FILE="/opt/intel/intelFPGA_pro/24.2/licenses/license.dat"
+export QSYS_ROOTDIR="/opt/intel/intelFPGA_pro/24.2/qsys/bin"
 export QUARTUS_PRO_BIN="/opt/intel/intelFPGA_pro/24.2/quartus/bin"
 export QUESTA_BIN="/opt/intel/intelFPGA_pro/24.2/questa_fse/bin"
 export VERILATOR_BIN="/opt/verilator/bin"
